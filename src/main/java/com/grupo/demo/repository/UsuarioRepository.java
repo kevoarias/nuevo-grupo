@@ -1,6 +1,6 @@
-package com.kevin.portalincidencias.repository;
+package com.grupo.demo.repository;
 
-import com.kevin.portalincidencias.model.Usuario;
+import com.grupo.demo.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.Optional;

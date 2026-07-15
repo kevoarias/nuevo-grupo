@@ -1,7 +1,7 @@
-package com.kevin.portalincidencias.repository;
+package com.grupo.demo.repository;
 
-import com.kevin.portalincidencias.model.Subcategoria;
-import com.kevin.portalincidencias.model.Categoria;
+import com.grupo.demo.model.Subcategoria;
+import com.grupo.demo.model.Categoria;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;

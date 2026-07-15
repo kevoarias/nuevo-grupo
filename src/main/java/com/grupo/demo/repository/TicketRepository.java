@@ -1,9 +1,8 @@
-package com.kevin.portalincidencias.repository;
+package com.grupo.demo.repository;
 
-import com.kevin.portalincidencias.model.Ticket;
-import com.kevin.portalincidencias.model.Subcategoria;
-import com.kevin.portalincidencias.model.Categoria;
-import com.kevin.portalincidencias.model.EstadoTicket;
+import com.grupo.demo.model.Ticket;
+import com.grupo.demo.model.Categoria;
+import com.grupo.demo.model.EstadoTicket;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;

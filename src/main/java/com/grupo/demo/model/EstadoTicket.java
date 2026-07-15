@@ -1,4 +1,4 @@
-package com.kevin.portalincidencias.model;
+package com.grupo.demo.model;
 
 public enum EstadoTicket {
     RECIBIDO,
